@@ -1,0 +1,3 @@
+# mountain.md
+
+You start climbing the mountain and see a bird flying overhead...
