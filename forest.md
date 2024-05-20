@@ -1,0 +1,3 @@
+# forest.md
+
+You enter the forest and hear strange noises...
